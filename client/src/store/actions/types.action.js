@@ -1,0 +1,7 @@
+
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const GET_ERRORS = 'GET_ERRORS';
+export const GET_ALL_CONTACTS = 'GET_ALL_CONTACTS';
+export const ADD_NEW_CONTACT = 'ADD_NEW_CONTACT';
+export const EDIT_CONTACT = 'EDIT_CONTACT';
+export const DELETE_CONTACT = 'DELETE_CONTACT';
